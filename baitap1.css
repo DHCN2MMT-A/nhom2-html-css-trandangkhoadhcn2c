@@ -1,0 +1,52 @@
+nav{
+	text-align: right;
+	background-color: yellow;
+	align-content: center;
+}
+
+
+.logo{
+	text-align : left;
+}
+#search{
+	text-align: right;
+}
+.gioithieu{
+	text-align: center;
+	color: red;
+}
+h2{
+	text-align: center;
+	color: blue;
+
+}
+.st1{
+	margin-top: 100px; 
+}
+.vbthapba{
+	text-align: right;
+	text-decoration: underline;
+	margin-bottom: 100px;
+
+}
+
+.imgthapba{
+	float: left;
+	text-align: left;
+	margin-top: 100px;
+	} 
+.vbcaptreo{
+	text-align: right;
+}
+.imgcaptreo{
+	float: left;
+	margin-top: 100px;
+	text-align: left; 
+}
+.video1{
+	text-align: left;
+}
+h4{
+	text-align: center;
+	color: red;
+}
